@@ -1,6 +1,6 @@
 # Arabic meter identification script
 
-WOP. This script provides the basic structure to identify the meter.
+WIP. This script provides the basic structure to identify the meter.
 In order to use it, click on Arabic_meter.ipynb above for a preview and 
 click the "Run in Colab" badge to run. You will need to Run All and
 input a half line (hemistich) of completely vocalized Arabic poetry written
